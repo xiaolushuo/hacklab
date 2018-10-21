@@ -1,6 +1,6 @@
 # hacklab
-Provides a bleeding edge metasploit-framework community application under docker 
-built from a gentoo stage3 distribution. This provides an uptodate exploitation
+a bleeding edge metasploit-framework community application from git under docker 
+built with a gentoo stage3 distribution. This provides an upto-date exploitation
 framework and common debugging/reverse engineering tools for performing vulnerability
 analysis. It handles all dependancy and gem building for metasploit-framework giving
 you access to the latest exploits during each build.
@@ -18,7 +18,7 @@ Todo
 ====
 * add postgres database support yaml for metasploit
 * init 0 or containerized postgres install for use
-* migrate to alpine linux or a smaller distribution or provide option
+* migrate to alpine linux or a smaller distribution or provide option?
 
 Usage
 =====
